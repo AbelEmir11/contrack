@@ -1,12 +1,12 @@
 {
-  "name": "constra",
-  "version": "2.1.0",
-  "description": "constra free construction template",
-  "author": "Themefisher",
+  "name": "contrack",
+  "version": "2.2",
+  "description": "Proyecto de construccion y servicios",
+  "author": "Abel Software-dev",
   "license": "MIT",
   "scripts": {
-    "dev": "gulp",
-    "build": "gulp build"
+    "dev": "Abel Alvarado",
+    "build": "-"
   },
   "dependencies": {
     "browser-sync": "^2.27.10",
